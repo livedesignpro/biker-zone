@@ -1,0 +1,30 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #222;
+}
+
+.top{
+    text-align: center;
+    color: #ff9697;
+}
+
+.nab-bar{
+    width: 100%;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+    /* height: 70px;
+    line-height: 70px; */
+
+}
+
+.nab-bar ul li{
+    display: inline-block;
+    margin: 10px 50px;
+    font-size: 17px;
+    font-weight: 500;
+  
+}

@@ -1,0 +1,49 @@
+/* -------- Font Family -------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 22px;
+    color: #3E3E3E;
+}
+
+#navbarSupportedContent li {
+    font-weight: 500;
+    font-size: 16px;
+    color: #3E3E3E;
+
+}
+
+/* Carousel Section Style Start */
+
+/* .carousel-item{
+    height: 100vh;
+} */
+
+.carousel-inner h5 {
+    font-weight: 600;
+    font-size: 48px;
+    color: white;
+}
+
+.carousel-inner p {
+    font-weight: 300;
+    font-size: 16px;
+    color: white;
+}
+
+.carousel-caption{
+    /* bottom: 180px; */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.btn-css{
+    margin-bottom: 130px;
+}

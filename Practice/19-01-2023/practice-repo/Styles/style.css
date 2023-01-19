@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* font-family: 'Montserrat', sans-serif; */
+
+/* brand color: #50d8af   #0c2e8a */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-container{
+    background: url("../images/cover.png");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-container-css{
+    margin-top: 200px;
+}
+
+.text-container-css h1{
+    font-size: 70px;
+    font-weight: 650;
+}
+
+.header-container p{
+    font-size: 20px;
+}

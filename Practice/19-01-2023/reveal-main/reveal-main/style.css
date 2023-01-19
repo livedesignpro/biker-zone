@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* font-family: 'Montserrat', sans-serif; */
+
+/* brand color: #50d8af   #0c2e8a */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-logo{
+    font-size: 42px;
+    font-weight: 800;
+    color: #0c2e8a;
+}
+.logo-style{
+    color: #50d8af;
+}
+.carousel-banner1{
+    background-image: url("./img/hero-carousel/4.jpg");
+}
+.carousel-banner2{
+    background-image: url("./img/hero-carousel/2.jpg");
+}
+.carousel-banner3{
+    background-image: url("./img/hero-carousel/3.jpg");
+}
+
+.carousel-banner1, .carousel-banner2, .carousel-banner3{
+    height: 100vh;
+}
+
+.client-image{
+    width: 150px;
+}
